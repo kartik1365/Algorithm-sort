@@ -22,5 +22,6 @@ Welcome to the Sorting Algorithms Visualization project! This UI-based tool is d
     https://github.com/kartik1365/Algorithm-sort
 
 2.Open index.html to open the webpage
+![image](https://github.com/user-attachments/assets/5f163a26-1cbe-416d-89d1-6972e95dfb38)
 
 > You can also adjust the size of the array and the speed of the flow of algrorithm using the slider on the UI.
